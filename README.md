@@ -17,5 +17,5 @@ Re-familiarizing with the NCrunch test runner.
 
 ## Outside of scope / Not a focus
 
-Code quality, expandability. It's hacked together :)
-External libraries. Someone's probably done something similar before.
+* Code quality, expandability. It's mostly hacked together :)
+* External libraries. Someone's probably done something similar before.
