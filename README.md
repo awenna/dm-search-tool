@@ -2,7 +2,6 @@
 #### For fun / Learning project
 #### Personal use tool
 #### Glance at implementation of a query language
-#### !Work in progress!
 
 This is a search tool for the Duel Masters card game, as no good tools currently seem to be available online.
 
